@@ -1,6 +1,6 @@
 Logging via EFK (Elasticsearch + Fluentd + Kibana) Stack with Docker Compose
 
-By combining these three tools EFK (Elasticsearch + Fluentd + Kibana) we get a scalable, flexible, easy to use log collection and analytics pipeline. In this article, we will set up 4 containers, each includes:
+By combining these three tools EFK (Elasticsearch + Fluentd + Kibana) we get a scalable, flexible, easy to use log collection and analytics pipeline. In this example, we will set up 4 containers, each includes:
 
     Apache HTTP Server
     Fluentd
