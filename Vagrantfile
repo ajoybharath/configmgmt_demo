@@ -1,3 +1,4 @@
+Vagrant.configure ("2") do |config| 
 config.vm.define "puppet" do |puppet|
 
     puppet.vm.box = "bento/centos-7.2"
@@ -99,3 +100,4 @@ config.vm.define "puppetagent-1" do |puppetagent1|
     SHELL
 
   end
+end
