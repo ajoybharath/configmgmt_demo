@@ -1,0 +1,11 @@
+[webservers]
+<your hosts>
+
+[dbservers]
+<your hosts>
+
+[lbservers]
+<your hosts>
+
+[monitoring]
+<your hosts>
